@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\bin\Debug\Click Paster WinForm.exe.config
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\bin\Debug\Click Paster WinForm.exe
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\bin\Debug\Click Paster WinForm.pdb
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click Paster WinForm.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click_Paster_WinForm.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click_Paster_WinForm.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click Paster WinForm.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click Paster WinForm.exe
+D:\Documents\Visual Studio 2013\Projects\Click Paster WinForm\Click Paster WinForm\obj\Debug\Click Paster WinForm.pdb
